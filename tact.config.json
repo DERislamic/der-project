@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "der_project",
+      "path": "./contracts/*.tact",
+      "output": "./wrappers",
+      "options": {
+        "debug": true
+      }
+    }
+  ]
+}
